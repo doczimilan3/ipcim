@@ -76,7 +76,6 @@ public class Ipcim {
             System.out.println();
             int hanyFele = 4;
             int lepes = (255/hanyFele)+1;
-            System.out.println("Lépés: " + lepes);
             String halozat = ipfelbont[0] + "." + ipfelbont[1] + "." + ipfelbont[2] + ".";
             
             for (int i = 0; i < hanyFele; i++) {
